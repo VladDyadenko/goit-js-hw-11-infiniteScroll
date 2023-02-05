@@ -1,21 +1,21 @@
 {
-  "name": "goit-js-hw-11",
+  "name": "goit-js-hw-11-infinitescroll",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://VladDyadenko.github.io/goit-js-hw-11",
+  "homepage": "https://VladDyadenko.github.io/goit-js-hw-11-infinitescroll",
   "scripts": {
     "start": "parcel src/*.html --open",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-11-infinitescroll/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VladDyadenko/goit-js-hw-11"
+    "url": "git+https://github.com/VladDyadenko/goit-js-hw-11-infinitescroll"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/VladDyadenko/goit-js-hw-11/issues"
+    "url": "https://github.com/VladDyadenko/goit-js-hw-11-infinitescroll/issues"
   },
   "dependencies": {
     "axios": "^1.2.3",

@@ -15,7 +15,7 @@ const getFotoPromisAPI = new GetFotoPromisAPI(userDataAPIPixabay);
 // з кнопкою Load more
 // btnOpenMoreFoto.classList.add('is-hidden');
 // btnOpenMoreFoto.addEventListener("click", getMoreFoto);
-// з кнопкою Load more
+
 
 form.addEventListener('submit', onSearch);
 async function onSearch(e){
